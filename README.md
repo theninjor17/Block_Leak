@@ -6,3 +6,5 @@ https://www.w3schools.com/python/python_comments.asp
 
 
 https://circuitpython.org/downloads
+
+https://learn.adafruit.com/adafruit-qt-py-esp32-s2
